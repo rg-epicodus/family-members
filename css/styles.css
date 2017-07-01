@@ -1,0 +1,12 @@
+#show-member {
+  display: none;
+}
+
+.member {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.member:hover {
+  text-decoration: underline;
+}
